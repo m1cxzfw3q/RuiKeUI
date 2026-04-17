@@ -9,7 +9,8 @@ import mindustry.Vars;
 import mindustry.mod.Mod;
 
 public class RKMain extends Mod {
-    public RKMain() {
+    @Override
+    public void loadContent() {
         // 替换鼠标贴图
         Log.log(Log.LogLevel.info, "[RuiKeUI]替换鼠标贴图");
         Vars.ui.drillCursor = Core.graphics.newCursor(
