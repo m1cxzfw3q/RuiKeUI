@@ -1,0 +1,13 @@
+{
+    "name": "rui-ke-ui",
+    "subtitle": "-锐刻UI",
+    "displayName": "RuiKe UI",
+    "minGameVersion": 154,
+    "author": "[sky[]]114514[white[]]",
+    "hidden": true,
+    "version": "0.2",
+    "description": "异验丁真，鉴定为：抽锐刻五抽的",
+    "repo": "m1cxzfw2q/RuiKeUI",
+    "java": true,
+    "main": "ruikeUI.RKMain"
+}
